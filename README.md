@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tausif04" alt="tausif04" /></a> </p>
 
-- 🔭 I’m currently focused on **mastering the Django framework, a high-level Python web framework known for its simplicity and robustness. He is exploring Django to build scalable, secure, and efficient web applications while honing his skills in backend development.Alongside web development,I am deeply engaged in problem-solving, enhancing analytical skills and coding expertise**
+- 🔭 I’m currently focused on **mastering the Django framework, a high-level Python web framework known for its simplicity and robustness. I am exploring Django to build scalable, secure, and efficient web applications while honing my skills in backend development.Alongside web development,I am deeply engaged in problem-solving, enhancing analytical skills and coding expertise**
 
 - 👯 I’m looking to collaborate on **integrating Artificial Intelligence (AI) and Machine Learning Engineering (MLE) with web development to create impactful solutions that address real-world challenges**
 
