@@ -1,30 +1,89 @@
-<h1 align="center">Hi, I'm Md Tausif Bin Mozid</h1>
-<h3 align="center">An undergraduate Computer Science and Engineering (CSE) student passionate about problem-solving and web development. Committed to mastering Artificial Intelligence (AI) and Machine Learning Engineering (MLE) to drive innovation and create impactful solutions</h3>
+<h1 align="center">Hello 👋, I'm Tausif Bin Mozid</h1>
+<img align="right" width="250" src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif" />
+<p>
+<img align="right" width="250" src="https://camo.githubusercontent.com/b176bdd9e89b7a6619726aa9629bcbe2db2795cd991ff67297bd7b452683a57e/68747470733a2f2f7777772e66726565636f646563616d702e6f72672f6e6577732f636f6e74656e742f696d616765732f323032322f31312f686972652d66756c6c2d737461636b2d646576656c6f70657273313534363530373437343331372d312e676966" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tausif04&label=Profile%20views&color=0e75b6&style=flat" alt="tausif04" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tausif04" alt="tausif04" /></a> </p>
+<h3 align="center">Problem Solver & Web Development Enthusiast | AI & MLE freak| Driving Technology Forward | Shaping Future Solutions</h3>
 
-- 🔭 I’m currently focused on **mastering the Django framework, a high-level Python web framework known for its simplicity and robustness. I am exploring Django to build scalable, secure, and efficient web applications while honing my skills in backend development.Alongside web development,I am deeply engaged in problem-solving, enhancing analytical skills and coding expertise**
+<img align="right" alt="Coding" width="400" src="https://coindsyz.com/wp-content/uploads/2022/03/1584023795.gif">
 
-- 👯 I’m looking to collaborate on **integrating Artificial Intelligence (AI) and Machine Learning Engineering (MLE) with web development to create impactful solutions that address real-world challenges**
-
-- 👨‍💻 All of my projects are available at [https://sites.google.com/diu.edu.bd/tausif1711/home](https://sites.google.com/diu.edu.bd/tausif1711/home)
-
-- 📄 Know about my experiences [https://drive.google.com/drive/u/1/folders/1de6y5_ma2mk-xjFtmg8Amk6jcDXvIpHX](https://drive.google.com/drive/u/1/folders/1de6y5_ma2mk-xjFtmg8Amk6jcDXvIpHX)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-tausif-bin-mozid-b33974260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-tausif-bin-mozid-b33974260/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/metausifr2?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/metausifr2?mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/tausif04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/tausif04" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/mozid22205101711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/mozid22205101711" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/metausif04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/metausif04" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=shamstajbir&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://wakatime.com/@018d3842-a0f3-4feb-b025-748009eee0b9">
+    <img src="https://wakatime.com/badge/user/018d3842-a0f3-4feb-b025-748009eee0b9.svg" alt="Total Time Coded" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+🌱 *Currently focused on:* Developing API using dJango and deep problem solving skill
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tausif04&show_icons=true&locale=en&layout=compact" alt="tausif04" /></p>
+💼 *Open to collaboration on:* AI, machine learning, and web development projects 
+with a strong emphasis on solving real-world problems and driving innovation.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tausif04&show_icons=true&locale=en" alt="tausif04" /></p>
+📫 *Let's Connect:*
+<div align="left">
+  <a href="https://www.linkedin.com/in/md-tausif-bin-mozid-b33974260/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mozid22205101711@diu.edu.bd" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+  <a href="https://www.instagram.com/_tausif_bin_mozid_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
+  </a>
+  <a href="https://x.com/TausifBinMozid?t=86izNd30b_Gmm8_785gaIQ&s=09" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="35" alt="Twitter" />
+  </a>
+  <a href="https://www.facebook.com/metausifR2?mibextid=ZbWKwL" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="35" alt="Facebook" />
+  </a>
+</div>
+
+⚡ *Fun Fact:* An avid cricketer with a flair for creative content creation!
+
+---
+<!--🐱CAT-->
+<p align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+
+<!--🤔INTERESTTITLE-->
+<p align="center">
+<img src="https://i.imgur.com/ozEwbHs.gif">
+
+
+## 🛠 Skills and Technologies
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+<h3>Let's Play!</h3>
+<p style="text-align: center;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AISoltani/AISoltani/output/github-contribution-grid-snake-dark.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/AISoltani/AISoltani/output/github-contribution-grid-snake.svg" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  </picture>
+</p>
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamstajbir&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shamstajbir&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
+  
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shamstajbir&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+
+
+### ✍ Inspirational Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=ffffff" alt="Random Dev Quote" />
+</p>
