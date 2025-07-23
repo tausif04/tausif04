@@ -9,13 +9,14 @@
 <img align="right" alt="Coding" width="400" src="https://coindsyz.com/wp-content/uploads/2022/03/1584023795.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shamstajbir&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://wakatime.com/@018d3842-a0f3-4feb-b025-748009eee0b9">
-    <img src="https://wakatime.com/badge/user/018d3842-a0f3-4feb-b025-748009eee0b9.svg" alt="Total Time Coded" />
+  <img src="https://komarev.com/ghpvc/?username=tausif04&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"  />
+  <a href="https://wakatime.com/@your-id">
+    <img src="https://wakatime.com/badge/user/your-id.svg" alt="Total Time Coded" />
   </a>
+
 </p>
 
-🌱 *Currently focused on:* Developing API using dJango and deep problem solving skill
+🌱 *Currently focused on:* Developing API using Django and deep problem-solving skills
 
 💼 *Open to collaboration on:* AI, machine learning, and web development projects 
 with a strong emphasis on solving real-world problems and driving innovation.
