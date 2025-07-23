@@ -9,12 +9,12 @@
 <img align="right" alt="Coding" width="400" src="https://coindsyz.com/wp-content/uploads/2022/03/1584023795.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=tausif04&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"  />
-  <a href="https://wakatime.com/@29f1d666-04ea-49fa-b225-403787fa5975"/>
-    <img src="https://wakatime.com/badge/user/your-id.svg" alt="Total Time Coded" />
+  <img src="https://komarev.com/ghpvc/?username=tausif04&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://wakatime.com/@waka_9e1f7504-d5b5-462e-83f9-dca6f22d51eb">
+    <img src="https://wakatime.com/badge/user/waka_9e1f7504-d5b5-462e-83f9-dca6f22d51eb.svg" alt="Total Time Coded" />
   </a>
-
 </p>
+
 
 🌱 *Currently focused on:* Developing API using Django and deep problem-solving skills
 
