@@ -30,25 +30,89 @@
 
 ###
 
-<p align="left">I am a Computer Science undergraduate with experience in backend and frontend web development. I work with Python, Django, React, and JavaScript to build scalable, data-driven applications. My academic and project work reflects a strong interest in machine learning and AI, with a focus on developing practical solutions through clean architecture and efficient implementation.</p>
+<p align="left">I am a Computer Science undergraduate with experience in backend and frontend web development. I work with Python, Django, React, and JavaScript to build scalable, data-driven applications. My academic and project work reflect a strong interest in machine learning and AI, with a focus on developing practical solutions through clean architecture and efficient implementation.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+<!-- TECH STACK SECTION -->
+<div align="center">
+  <h2 align="center">🛠️ Tech Stack</h2>
 </div>
 
-###
+<table width="100%" border="0" cellpadding="10" bgcolor="#0d1117">
+  <tr valign="top">
+    <td width="33%" style="border: 1px solid #30363d; border-radius: 8px; background-color: #161b22;">
+      <div align="center">
+        <h3>Languages</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        </p>
+      </div>
+    </td>
+
+    <td width="33%" style="border: 1px solid #30363d; border-radius: 8px; background-color: #161b22;">
+      <div align="center">
+        <h3>Backend & APIs</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Django_REST-ff1709?style=flat-square&logo=django&logoColor=white"/>
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+          <img src="https://img.shields.io/badge/REST_API-000000?style=flat-square&logo=api&logoColor=white"/>
+        </p>
+      </div>
+    </td>
+
+    <td width="33%" style="border: 1px solid #30363d; border-radius: 8px; background-color: #161b22;">
+      <div align="center">
+        <h3>Frontend</h3>
+        <p>
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr valign="top">
+    <td width="33%" style="border: 1px solid #30363d; border-radius: 8px; background-color: #161b22;">
+      <div align="center">
+        <h3>Machine Learning and AI</h3>
+        <p>
+          <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+        </p>
+      </div>
+    </td>
+
+    <td width="33%" style="border: 1px solid #30363d; border-radius: 8px; background-color: #161b22;">
+      <div align="center">
+        <h3>Database</h3>
+        <p>
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+        </p>
+      </div>
+    </td>
+
+    <td width="33%" style="border: 1px solid #30363d; border-radius: 8px; background-color: #161b22;">
+      <div align="center">
+        <h3>Tools</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">🔥   My Stats :</h3>
 
