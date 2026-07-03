@@ -28,7 +28,7 @@
 
 <p align="left">👩‍💻  I am a Computer Science undergraduate with experience in backend and frontend web development. I work with Python, Django, React, and JavaScript to build scalable, data-driven applications. My academic and project work reflect a strong interest in machine learning and AI, with a focus on developing practical solutions through clean architecture and efficient implementation.</p>
 <p align="center">
-  🌐 <a href="https://your-portfolio-link.com" target="_blank"><b>Visit My Portfolio</b></a>
+  🌐 <a href="https://tausif-dev.vercel.app" target="_blank"><b>Visit My Portfolio</b></a>
 </p>
 
 ###
